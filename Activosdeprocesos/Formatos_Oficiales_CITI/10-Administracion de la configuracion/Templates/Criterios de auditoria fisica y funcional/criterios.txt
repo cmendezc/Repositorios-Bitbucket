@@ -1,0 +1,27 @@
+Auditoria Física.
+
+Criterios:
+
+1.       La estructura que tienen los repositorios sea correcta
+
+2.       Los elementos cumplan con la nomenclatura
+
+3.       Se haya realizado el Flujo de Aprobación
+
+4.       El  control de acceso este implementado correctamente
+
+5.       Los respaldos y la recuperación se estén haciendo conforme a lo definido
+
+El auditor la realizará al menos una vez durante todo el proyecto.
+
+ 
+
+Auditoria Funcional.
+
+Criterios:
+
+1.       Encontrar evidencia de que los productos de trabajo pasaron por la verificación, validación y aprobación de acuerdo al flujo de aprobación
+
+2.       Asegurar que el contenido de la línea base es correcto y completo
+
+El auditor la realizará al finalizar cada fase de desarrollo.
